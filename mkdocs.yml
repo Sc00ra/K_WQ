@@ -1,0 +1,16 @@
+site_name: Kraków water quality monitoring
+docs_dir: docs
+repo_url: https://github.com/Sc00ra/K_WQ
+
+copyright: Skóra/Firek
+
+theme:
+  name: mkdocs
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+
+nav:
+  - Introduction: index.md
+  
