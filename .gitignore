@@ -1,3 +1,8 @@
 .env
-K_WQ/models2
-K_WQ/models2/CNN_Light_F4
+./K_WQ/models2
+./K_WQ/models2/CNN_Light_F4
+./K_WQ/output_s2
+./output_s2
+./streamlit
+./stare notebooki
+stare notebooki
