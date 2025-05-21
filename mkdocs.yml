@@ -7,15 +7,21 @@ copyright: Skóra/Firek
 theme:
   name: material
   palette:
-    primary: 'indigo'
-    accent: 'light blue'
-
-plugins:
-  - search
-  - mkdocs-material
-  - mkdocs-mermaid2-plugin  # for diagrams
-
+    primary: indigo
+    accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: ./docs_images/satellite.png
+  favicon: ./docs_images/satellite.png
 
 nav:
-  - Introduction: index.md
+  - Abstract: index.md
+  - WaterQuality:
+      - CDOM: waterquality/cdom.md
+      - DOM: waterquality/doc.md
+      - Chlorophyll-a: waterquality/chlorophyl.md
+      - Turbidity: waterquality/turbidity.md
+  - Superresolution: superres.md
   
+      
