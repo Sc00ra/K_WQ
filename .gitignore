@@ -6,3 +6,15 @@ streamlit/
 stare notebooki/
 /home/eouser/Desktop/K_WQ/stare notebooki/
 stare_notebooki/
+sr_output/
+smieci/
+tiff_to_bands/*.tif
+szybkie indeksy wody/*.tif
+szybkie indeksy wody/*.npy
+szybkie indeksy wody/*.cpg
+szybkie indeksy wody/*.dbf
+szybkie indeksy wody/*.prj
+szybkie indeksy wody/*.shx
+szybkie indeksy wody/*.shp
+evoland_SR.ipynb
+STAC.ipynb
