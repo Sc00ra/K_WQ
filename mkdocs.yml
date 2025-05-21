@@ -5,10 +5,15 @@ repo_url: https://github.com/Sc00ra/K_WQ
 copyright: Skóra/Firek
 
 theme:
-  name: mkdocs
-  font:
-    text: Roboto
-    code: Roboto Mono
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+
+plugins:
+  - search
+  - mkdocs-material
+  - mkdocs-mermaid2-plugin  # for diagrams
 
 
 nav:
