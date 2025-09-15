@@ -1,0 +1,7 @@
+#env streamlita i odpalanie stronki
+source ~/.bashrc
+cd K_WQ/K_WQ_app/
+streamlit run Project_description.py
+
+conda --version
+/home/eouser/miniconda3
